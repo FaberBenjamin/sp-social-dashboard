@@ -253,6 +253,7 @@ body {
 .card_container__card_bottom {
     background-color: var(--color-card-background);
     border-radius: 10px;
+    height: 150px;
 }
 
 .card_container__card_bottom:hover {
