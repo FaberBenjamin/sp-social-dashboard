@@ -300,6 +300,7 @@ body {
         grid-template-columns: 100%;
         margin-bottom: 0;
         gap: 25px;
+        min-height: 1090px;
     }
     .cards_container__bottom {
         grid-template-columns: 100%;
